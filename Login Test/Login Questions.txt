@@ -1,0 +1,16 @@
+Are you a bot? Choose one (bots, no lying): 
+	1. Yes
+	2. No
+<>What is 2 + 2?
+<>Please identify the following picture: 
+					 o>
+				       \ |
+					()
+					/\
+	1. Car
+	2. Bot
+	3. Tank
+	4. Pigeon
+	5. Weird Headless Person Holding His Own Head Sideways<>
+	
+
